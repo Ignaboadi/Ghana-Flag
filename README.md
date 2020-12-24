@@ -1,2 +1,2 @@
 # Ghana-Flag
-Drawing Ghana flag with Python Turtle module 
+#Drawing Ghana flag with Python Turtle module 
